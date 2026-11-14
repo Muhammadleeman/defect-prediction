@@ -1,0 +1,26 @@
+{
+  "features": [
+    "loc"
+  ],
+  "mean": [
+    4.929955063806854
+  ],
+  "scale": [
+    1.7623696406803844
+  ],
+  "coef": [
+    1.5588376842114275
+  ],
+  "intercept": -0.3809586718470574,
+  "trained_on": [
+    "aio-libs/aiohttp",
+    "matplotlib/matplotlib",
+    "psf/requests",
+    "pypa/pip",
+    "pytest-dev/pytest",
+    "python-poetry/poetry",
+    "scikit-learn/scikit-learn",
+    "scrapy/scrapy"
+  ],
+  "cutoff": "2025-10-01"
+}
